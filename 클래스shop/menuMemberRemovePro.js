@@ -1,5 +1,5 @@
 import { ManagerMember } from "./mangerMember.js";
-import { Main } from "./_main.js";
+import { Main } from "./main.js";
 
 
 export class MenuMemberRemovePro{
